@@ -1,6 +1,6 @@
 /*BEGIN PS3 Controller Styling*/
 .controller.custom {
-    background: url(https://raw.githubusercontent.com/VideoGameRoulette/PS3-Controller/master/base.png);
+    background: url(base.png);
     height: 558px;
     width: 784px;
     /*    margin-left: -392px;
@@ -8,7 +8,7 @@
 }
 
 .custom.disconnected {
-    background: url(https://raw.githubusercontent.com/VideoGameRoulette/PS3-Controller/master/base-disconnect.png);
+    background: url(base-disconnect.png);
 }
 
 .custom.disconnected div {
@@ -25,7 +25,7 @@
 .custom .trigger {
     width: 86px;
     height: 65px;
-    background: url(https://raw.githubusercontent.com/VideoGameRoulette/PS3-Controller/master/triggers.png);
+    background: url(triggers.png);
     opacity: 0;
 }
 
@@ -40,7 +40,7 @@
 .custom .bumper {
     width: 89px;
     height: 28px;
-    background: url(https://raw.githubusercontent.com/VideoGameRoulette/PS3-Controller/master/bumpers.png);
+    background: url(bumpers.png);
     opacity: 0;
 }
 
@@ -68,7 +68,7 @@
 
 .custom .quadrant {
     position: absolute;
-    background: url(https://raw.githubusercontent.com/VideoGameRoulette/PS3-Controller/master/player-n.png);
+    background: url(player-n.png);
     height: 17px;
     width: 111px;
     top: 140px;
@@ -100,7 +100,7 @@
 }
 
 .custom .back, .custom .start {
-    background: url(https://raw.githubusercontent.com/VideoGameRoulette/PS3-Controller/master/menus.png);
+    background: url(menus.png);
     width: 34px;
     height: 19px;
 }
@@ -139,7 +139,7 @@
     position: absolute;
     width: 62px;
     height: 62px;
-    background: url(https://raw.githubusercontent.com/VideoGameRoulette/PS3-Controller/master/face-buttons.png);
+    background: url(face-buttons.png);
 }
 
 .custom .button.pressed {
@@ -180,7 +180,7 @@
 
 .custom .stick {
     position: absolute;
-    background: url(https://raw.githubusercontent.com/VideoGameRoulette/PS3-Controller/master/thumbs.png);
+    background: url(thumbs.png);
     height: 105px;
     width: 105px;
 }
@@ -212,7 +212,7 @@
 }
 
 .custom .face {
-    background: url(https://raw.githubusercontent.com/VideoGameRoulette/PS3-Controller/master/dpad.png);
+    background: url(dpad.png);
     position: absolute;
 }
 
