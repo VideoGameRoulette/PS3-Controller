@@ -1,0 +1,39 @@
+/*BEGIN PS3 Controller Styling*/
+.controller.custom {
+    background: url(https://raw.githubusercontent.com/VideoGameRoulette/PS3-Controller/master/basecp.png);
+    height: 558px;
+    width: 784px;
+    /*    margin-left: -392px;
+        margin-top: -259px;*/
+}
+
+.custom.disconnected div {
+    display: none;
+}
+
+.custom .quadrant {
+    position: absolute;
+    background: url(https://raw.githubusercontent.com/VideoGameRoulette/PS3-Controller/master/player-n.png);
+    height: 17px;
+    width: 111px;
+    top: 140px;
+    left: 240px;
+}
+
+.custom .p0 {
+    background-position: 0 -6px;
+}
+
+.custom .p1 {
+    background-position: 0 -28px;
+}
+
+.custom .p2 {
+    background-position: 0 -49px;
+}
+
+.custom .p3 {
+    background-position: 0 -70px;
+}
+
+/*END PS3 Controller Styling*/
